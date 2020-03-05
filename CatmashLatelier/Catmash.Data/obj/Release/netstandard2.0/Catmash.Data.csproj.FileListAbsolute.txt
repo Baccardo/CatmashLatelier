@@ -1,0 +1,7 @@
+C:\Users\Baccardo\source\repos\CatmashLatelier\Catmash.Data\bin\Release\netstandard2.0\Catmash.Data.deps.json
+C:\Users\Baccardo\source\repos\CatmashLatelier\Catmash.Data\bin\Release\netstandard2.0\Catmash.Data.dll
+C:\Users\Baccardo\source\repos\CatmashLatelier\Catmash.Data\bin\Release\netstandard2.0\Catmash.Data.pdb
+C:\Users\Baccardo\source\repos\CatmashLatelier\Catmash.Data\obj\Release\netstandard2.0\Catmash.Data.AssemblyInfoInputs.cache
+C:\Users\Baccardo\source\repos\CatmashLatelier\Catmash.Data\obj\Release\netstandard2.0\Catmash.Data.AssemblyInfo.cs
+C:\Users\Baccardo\source\repos\CatmashLatelier\Catmash.Data\obj\Release\netstandard2.0\Catmash.Data.dll
+C:\Users\Baccardo\source\repos\CatmashLatelier\Catmash.Data\obj\Release\netstandard2.0\Catmash.Data.pdb

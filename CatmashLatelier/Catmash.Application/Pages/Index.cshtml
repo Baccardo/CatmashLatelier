@@ -1,0 +1,30 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Voter";
+}
+
+<div class="text-center">
+    <h2 class="display-4" style="font-size: 1.5rem;">Cliquez pour voter le plus beau chat</h2>
+</div>
+
+<div class="container-fluid" style="padding:15px;">
+    <div class="card-deck text-center">
+        @foreach (var image in Model.ImagesList)
+        {
+            <form asp-page-handler="Vote" method="post" class="card" style="align-items:center;justify-content:center;">
+                <button class="card-body" style="border-style: none; background-color: transparent; width: 100%;">
+                    <img src="@image.Url" class="card-img" alt="cat">
+                </button>
+                <input type="hidden" name="id" value="@image.Id" />
+            </form>
+        }
+    </div>
+</div>
+
+<div class="text-center">
+    <a class="nav-link text-dark" asp-area="" asp-page="/Ranking">
+        <h2 class="display-4" style="font-size: 1rem;">Voir les plus beaux chats</h2>
+        <h2 class="display-4" style="font-size: 0.75rem;">@Model.TotalNumberOfVotes.ToString() Votes</h2>
+    </a>
+</div>

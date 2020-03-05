@@ -1,0 +1,11 @@
+C:\Users\Baccardo\source\repos\CatmashLatelier\Catmash.Business\bin\Release\netstandard2.0\Catmash.Business.deps.json
+C:\Users\Baccardo\source\repos\CatmashLatelier\Catmash.Business\bin\Release\netstandard2.0\Catmash.Business.dll
+C:\Users\Baccardo\source\repos\CatmashLatelier\Catmash.Business\bin\Release\netstandard2.0\Catmash.Business.pdb
+C:\Users\Baccardo\source\repos\CatmashLatelier\Catmash.Business\bin\Release\netstandard2.0\Catmash.Data.dll
+C:\Users\Baccardo\source\repos\CatmashLatelier\Catmash.Business\bin\Release\netstandard2.0\Catmash.Data.pdb
+C:\Users\Baccardo\source\repos\CatmashLatelier\Catmash.Business\obj\Release\netstandard2.0\Catmash.Business.csprojAssemblyReference.cache
+C:\Users\Baccardo\source\repos\CatmashLatelier\Catmash.Business\obj\Release\netstandard2.0\Catmash.Business.AssemblyInfoInputs.cache
+C:\Users\Baccardo\source\repos\CatmashLatelier\Catmash.Business\obj\Release\netstandard2.0\Catmash.Business.AssemblyInfo.cs
+C:\Users\Baccardo\source\repos\CatmashLatelier\Catmash.Business\obj\Release\netstandard2.0\Catmash.Business.csproj.CopyComplete
+C:\Users\Baccardo\source\repos\CatmashLatelier\Catmash.Business\obj\Release\netstandard2.0\Catmash.Business.dll
+C:\Users\Baccardo\source\repos\CatmashLatelier\Catmash.Business\obj\Release\netstandard2.0\Catmash.Business.pdb
